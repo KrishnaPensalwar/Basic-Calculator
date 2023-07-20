@@ -1,0 +1,23 @@
+.text-centre{
+    text-align: center;
+}
+
+body{
+    text-align: center;
+    justify-content: center;
+}
+
+.button{
+     width : 66px; 
+    padding: 10;
+    margin: 7px 3px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+}
+.row input{
+    padding:10px 100px;
+    margin-bottom: 50;
+    border: 2px solid black;
+    border-radius: 9px;
+}
